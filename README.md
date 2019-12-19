@@ -23,9 +23,9 @@ In sum, I would like my audience to interact with my website by writing letters 
 ![My Design Process](img/DesignProcess_feitien.jpeg)
 
 My sketch:
-![User Experience Flow](img/UserExperienceFlow.jpeg)
+![User Experience Flow](/img/UserExperienceFlow.jpeg)
 
-![Sketch](img/sketchofmyweb.jpeg)
+![Sketch](/img/sketchofmyweb.jpeg)
 
 Old version design:
 ![Structure](img/Wireframe_V1.jpeg)
