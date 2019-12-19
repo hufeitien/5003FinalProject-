@@ -51,9 +51,10 @@ Adobe Illustrator；Atom & Sublime
 
 
 * Some Visual References:
+![Writing Letter](https://github.com/hufeitien/5003FinalProject-/blob/master/img/Futureme.jpeg?raw=true)
 ![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse2.jpg?raw=true)
 ![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse3.jpg?raw=true)
-![Writing Letter](Futureme.jpeg)
+
 
 
 ## Reference
