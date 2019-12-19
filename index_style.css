@@ -1,0 +1,73 @@
+
+
+
+.intro{
+text-align: center;
+/*background-color: black;*/
+color: white;
+padding: 300px;
+height: 100vh;
+
+}
+
+a .Enterbutton{
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: grey;
+  border: solid 1px white;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Titillium Web', sans-serif;
+  border-radius: 3px;
+
+
+}
+
+
+a .Enterbutton:hover{
+  background-color: rgba(255, 255, 255, 0.4);  
+}
+
+.intro{
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+#BgVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.ityped-cursor {
+  font-size: 2.2rem;
+  opacity: 1;
+  -webkit-animation: blink 0.3s infinite;
+  -moz-animation: blink 0.3s infinite;
+  animation: blink 0.3s infinite;
+  animation-direction: alternate;
+
+}
+
+@keyframes blink {
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes blink {
+  100% {
+    opacity: 0;
+  }
+}
+
+@-moz-keyframes blink {
+  100% {
+    opacity: 0;
+  }
+}

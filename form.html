@@ -1,0 +1,59 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" type="text/css" href="form_style.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap" rel="stylesheet">
+  <title> In memory of ... </title>
+</head>
+
+<body>
+  <!-- <div class="sendok">  -->
+  <div class="result">
+    <div class="result result1">
+    <div class="bigok">Message Delivered!</div><br><br> They have something to tell you too! <br>(Please Scroll Down ...)
+  </div>
+  <div class="result result2">"I MISS YOU TOO! HOW DO YOU DO?" <br><br><br> Wanna take a look at message wall?<br><br> 
+    <a href="#messagewall"> <button class="Wallbutton"> YES! </button> </div> </a>
+  <div class="result result3" id="messagewall"> <p id="DearMessage"></p>  </div>
+  </div>
+
+  <div class="linemail">
+    <div class="lineinner"></div>
+  </div>
+  <div class="mail">
+    <div class="userinputarea">
+      <p class="mark1"><input class="mark2" type="text" size="18" id="ToSomeone" placeholder="To:">
+      </p>
+      <input type="text" style="display: none;" />
+      <textarea name="Message" id="mymessage" class="mark3" placeholder="Want to tell him/her something but did not have a chance to say before? Write to them and let them know! "></textarea>
+     <button type="button" id="sendbutton" class="sendmail"> Send </button>
+      <!-- <a href="#messagedisplayarea"><button type="button" id="sendbutton" onClick="send()"> Send </button> </a> -->
+    </div>
+  </div>
+
+  <div class="messagedisplayarea" id="messagedisplayarea" class="animated infinite bounce">
+    <p id="DearMessage"></p>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src=form.js> </script>
+
+  <!-- Send and show message  -->
+  <script type="text/javascript">
+      function ShowMessage() {
+      var name = document.getElementById("ToSomeone");
+      var message = document.getElementById("mymessage");
+      document.getElementById("DearMessage").innerHTML = "Dear, " + name.value + "<br/>" + message.value;
+      }
+      
+      // Call function
+      document.getElementById("sendbutton").onclick = ShowMessage;
+  </script>
+</body>
+
+</html>
