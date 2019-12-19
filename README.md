@@ -1,6 +1,8 @@
 # Fei-Tien Hu's MSTU 5003 Final Project 
+  * The link of my final project: https://hufeitien.github.io/5003FinalProject-/
   * fh2393@tc.columbia.edu  
   * Instructioanl Technology and Media, Teachers College, Columbia University
+
 
 
 ## Design Document
