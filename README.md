@@ -20,10 +20,10 @@ In sum, I would like my audience to interact with my website by writing letters 
 ## Web Design Process
 
 
-![My Design Process](img/DesignProcess_feitien.jpeg)
+![My Design Process](./img/DesignProcess_feitien.jpeg)
 
 My sketch:
-![User Experience Flow](/img/UserExperienceFlow.jpeg)
+![User Experience Flow](./img/UserExperienceFlow.jpeg)
 
 ![Sketch](/img/sketchofmyweb.jpeg)
 
