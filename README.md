@@ -1,5 +1,4 @@
-# MSTU 5003 Final Project 
-  * Fei-Tien Hu
+# Fei-Tien Hu's MSTU 5003 Final Project 
   * fh2393@tc.columbia.edu  
   * Instructioanl Technology and Media, Teachers College, Columbia University
 
@@ -53,9 +52,9 @@ Atom & Sublime
 
 * Some Visual References:
 
-![Parallel Universe](parallelUniverse.jpg)
-![Parallel Universe](parallelUniverse2.jpg)
-![Parallel Universe](parallelUniverse3.jpg)
+![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse.jpg?raw=true)
+![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse2.jpg?raw=true)
+![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse3.jpg?raw=true)
 ![Writing Letter](Futureme.jpeg)
 
 
