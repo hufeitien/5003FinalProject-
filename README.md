@@ -20,7 +20,7 @@ In sum, I would like my audience to interact with my website by writing letters 
 ## Web Design Process
 
 
-![My Design Process](./img/DesignProcess_feitien.jpeg)
+![My Design Process](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjV16biqsLmAhWHHqYKHaXKB1IQjRx6BAgBEAQ&url=https%3A%2F%2Fdesign.google%2Flibrary%2Fevolving-google-identity%2F&psig=AOvVaw2iYTJv7UY19YfQsipl3oF7&ust=1576866272264895)
 
 My sketch:
 ![User Experience Flow](./img/UserExperienceFlow.jpeg)
