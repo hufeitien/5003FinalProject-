@@ -1,4 +1,4 @@
-# Fei-Tien Hu's MSTU 5003 Final Project 
+# Fei-Tien Hu's MSTU 5003 Final Project “My Dear You”
   * The link of my final project: https://hufeitien.github.io/5003FinalProject-/
   * fh2393@tc.columbia.edu  
   * Instructioanl Technology and Media, Teachers College, Columbia University
