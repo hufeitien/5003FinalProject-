@@ -24,35 +24,33 @@ In sum, I would like my audience to interact with my website by writing letters 
 
 ![My Design Process](https://github.com/hufeitien/5003FinalProject-/blob/master/img/DesignProcess_feitien.jpg?raw=true)
 
-My sketch:
 ![User Experience Flow](https://github.com/hufeitien/5003FinalProject-/blob/master/img/UserExperienceFlow.jpg?raw=true)
 
+
+* My sketch:
 ![Sketch](/img/sketchofmyweb.jpeg)
 
-Old version design:
+* Old version design:
 ![Structure](https://github.com/hufeitien/5003FinalProject-/blob/master/img/Wireframe_V1.png?raw=true)
 
-Final Design (only several pages are displayed below):  
+* Final Design (only several pages are displayed below):  
 ![Landing Page](https://github.com/hufeitien/5003FinalProject-/blob/master/img/1.Landingpage.png?raw=true)
 ![Letter Page](https://github.com/hufeitien/5003FinalProject-/blob/master/img/2.letterpage1.png?raw=true)
 ![Letter Animation](https://github.com/hufeitien/5003FinalProject-/blob/master/img/5.letteranimation2.png?raw=true)
-![User Input Display Area](https://github.com/hufeitien/5003FinalProject-/blob/master/img/8.messgedisplayarea1.png?raw=true)
-![FadeOut Animation](https://github.com/hufeitien/5003FinalProject-/blob/master/img/9.messgedisplay_fadeoutanimtaion.png?raw=true)
+![User Input Display Area](https://github.com/hufeitien/5003FinalProject-/blob/master/img/9.messgedisplay_fadeoutanimtaion.png?raw=true)
+![FadeOut Animation](https://github.com/hufeitien/5003FinalProject-/blob/master/img/8.messgedisplayarea1.png?raw=true)
 
 
 * I teach myself by googling, watching Youtube tutorials, and asking some experienced classmates.  
 
 
 ## Design Tools
-Adobe Illustrator
-Atom & Sublime 
+Adobe Illustrator；Atom & Sublime 
 
 * I have researched into a few similar projects, such as [futureme](https://www.futureme.org/) and [the typing effect on the landing page of this website](http://dataf.org/en/). I think in the next few weeks, I would like to use the class time to find out how to create a beautiful letter writing table on the webpage and integrate JS interactive elements to make it automatically form a customized poster. Visually, I would like my piece to look like a beautiful imagery afterlife world with a mailbox that can link me and deceased ones in the two parallel universe.  
 
 
 * Some Visual References:
-
-![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse.jpg?raw=true)
 ![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse2.jpg?raw=true)
 ![Parallel Universe](https://github.com/hufeitien/5003FinalProject-/blob/master/img/parallelUniverse3.jpg?raw=true)
 ![Writing Letter](Futureme.jpeg)
