@@ -31,7 +31,7 @@ Old version design:
 ![Structure](img/Wireframe_V1.jpeg)
 
 Final Design (only several pages are displayed below):  
-![Landing Page](img/1.Landingpage.jpeg)
+![Landing Page](https://github.com/hufeitien/5003FinalProject-/blob/master/img/1.Landingpage.png)
 ![Letter Page](img/3.letterpage2.jpeg)
 ![Letter Animation](img/5.letteranimation2.jpeg)
 ![User Input Display Area](img/8.messgedisplayarea1.jpeg)
