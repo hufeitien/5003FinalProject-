@@ -20,22 +20,22 @@ In sum, I would like my audience to interact with my website by writing letters 
 ## Web Design Process
 
 
-![My Design Process](DesignProcess_feitien.jpeg)
+![My Design Process](img/DesignProcess_feitien.jpeg)
 
 My sketch:
-![User Experience Flow](UserExperienceFlow.jpeg)
+![User Experience Flow](img/UserExperienceFlow.jpeg)
 
-![Sketch](sketchofmyweb.jpeg)
+![Sketch](img/sketchofmyweb.jpeg)
 
 Old version design:
-![Structure](Wireframe_V1.jpeg)
+![Structure](img/Wireframe_V1.jpeg)
 
 Final Design (only several pages are displayed below):  
-![Landing Page](1.Landingpage.jpeg)
-![Letter Page](3.letterpage2.jpeg)
-![Letter Animation](5.letteranimation2.jpeg)
-![User Input Display Area](8.messgedisplayarea1.jpeg)
-![FadeOut Animation](9.messgedisplay_fadeoutanimtaion.jpeg)
+![Landing Page](img/1.Landingpage.jpeg)
+![Letter Page](img/3.letterpage2.jpeg)
+![Letter Animation](img/5.letteranimation2.jpeg)
+![User Input Display Area](img/8.messgedisplayarea1.jpeg)
+![FadeOut Animation](img/9.messgedisplay_fadeoutanimtaion.jpeg)
 
 
 * I teach myself by googling, watching Youtube tutorials, and asking some experienced classmates.  
