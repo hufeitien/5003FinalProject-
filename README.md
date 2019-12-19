@@ -1,7 +1,10 @@
-# Fei-Tien Hu's MSTU 5003 Final Project 
+# MSTU 5003 Final Project 
+  * Fei-Tien Hu
+  * fh2393@tc.columbia.edu  
+  * Instructioanl Technology and Media, Teachers College, Columbia University
+
 
 ## Design Document
-fh2393@tc.columbia.edu 
 
 ## Summary  
 * I am designing a website for people to communicate with those whom they miss a lot but no longer have a chance to talk to physically. I often imagine that there might be a certain kind of secret space, such as a parallel universe that can connect the people on earth and the deceased ones in the afterlife world. Users can write down that they want to say to their deceased loved ones. I hope to create a space that helps people deliver their messages to their deceased ones and make them feel therapeutic.
