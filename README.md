@@ -20,22 +20,22 @@ In sum, I would like my audience to interact with my website by writing letters 
 ## Web Design Process
 
 
-![My Design Process](https://storage.googleapis.com/gd-wagtail-prod-assets/images/evolving_google_identity_2x.max-4000x2000.jpegquality-90.jpg)
+![My Design Process](https://github.com/hufeitien/5003FinalProject-/blob/master/img/DesignProcess_feitien.jpg?raw=true)
 
 My sketch:
-![User Experience Flow](./img/UserExperienceFlow.jpeg)
+![User Experience Flow](https://github.com/hufeitien/5003FinalProject-/blob/master/img/UserExperienceFlow.jpg?raw=true)
 
 ![Sketch](/img/sketchofmyweb.jpeg)
 
 Old version design:
-![Structure](img/Wireframe_V1.jpeg)
+![Structure](https://github.com/hufeitien/5003FinalProject-/blob/master/img/Wireframe_V1.png?raw=true)
 
 Final Design (only several pages are displayed below):  
 ![Landing Page](https://github.com/hufeitien/5003FinalProject-/blob/master/img/1.Landingpage.png?raw=true)
-![Letter Page](img/3.letterpage2.jpeg)
-![Letter Animation](img/5.letteranimation2.jpeg)
-![User Input Display Area](img/8.messgedisplayarea1.jpeg)
-![FadeOut Animation](img/9.messgedisplay_fadeoutanimtaion.jpeg)
+![Letter Page](https://github.com/hufeitien/5003FinalProject-/blob/master/img/2.letterpage1.png?raw=true)
+![Letter Animation](https://github.com/hufeitien/5003FinalProject-/blob/master/img/5.letteranimation2.png?raw=true)
+![User Input Display Area](https://github.com/hufeitien/5003FinalProject-/blob/master/img/8.messgedisplayarea1.png?raw=true)
+![FadeOut Animation](https://github.com/hufeitien/5003FinalProject-/blob/master/img/9.messgedisplay_fadeoutanimtaion.png?raw=true)
 
 
 * I teach myself by googling, watching Youtube tutorials, and asking some experienced classmates.  
@@ -53,7 +53,6 @@ Atom & Sublime
 ![Parallel Universe](parallelUniverse.jpg)
 ![Parallel Universe](parallelUniverse2.jpg)
 ![Parallel Universe](parallelUniverse3.jpg)
-![Typing Effect](typingEffect.jpeg)
 ![Writing Letter](Futureme.jpeg)
 
 
